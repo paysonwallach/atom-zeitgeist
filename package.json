@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "zeitgeist",
   "description": "Log activity in Atom to Zeitgeist.",
   "license": "GPL-3.0",
