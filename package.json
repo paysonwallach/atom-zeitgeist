@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/paysonwallach/zeitgeist-logger-atom"
   },
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "dist/main",
   "scripts": {
     "build": "run-s clean build:ts",
