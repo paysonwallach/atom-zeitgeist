@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/paysonwallach/zeitgeist-logger-atom"
   },
-  "version": "0.2.1",
+  "version": "0.3.0",
   "main": "dist/main",
   "scripts": {
     "build": "run-s clean build:ts",
@@ -29,8 +29,8 @@
     "uuidv4": "^6.2.7"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.0",
-    "@commitlint/config-conventional": "^12.1.0",
+    "@commitlint/cli": "^12.0.1",
+    "@commitlint/config-conventional": "^12.0.1",
     "@types/atom": "^1.40.10",
     "@types/electron": "^1.6.10",
     "@types/mmmagic": "^0.4.30",
